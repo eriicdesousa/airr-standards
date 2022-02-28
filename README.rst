@@ -137,7 +137,7 @@ References
 License
 =======
 
-(c) 2015 - 2021 by Francisco Arcila, Syed Ahmad Chan Bukhari,
+(c) 2015 - 2022 by Francisco Arcila, Syed Ahmad Chan Bukhari,
 Jean-Philippe Bürckert, Christian E. Busse, Scott Christley, Brian
 Corrie, Lindsay G. Cowell, Srilakshmy L. Harikrishnan, Uri Hershberg,
 Katharina Imkeller Steven H. Kleinstein, Susanna Marquez, Frederick A.
